@@ -1,0 +1,9 @@
+git clone https://github.com/...
+git add filename
+git commit -m "message"
+
+git commit -a -m "message"
+
+git config user.name rosskyl
+git config user.email rosskyl@mnstate.edu
+
