@@ -7,3 +7,6 @@ git commit -a -m "message"
 git config user.name rosskyl
 git config user.email rosskyl@mnstate.edu
 
+git branch
+git branch name
+
