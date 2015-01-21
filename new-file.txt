@@ -9,4 +9,5 @@ git config user.email rosskyl@mnstate.edu
 
 git branch
 git branch name
-
+git checkout branch-name
+git merge branch-name
